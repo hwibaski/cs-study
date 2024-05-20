@@ -144,7 +144,7 @@ function binarySearch(arr, target, left = 0, right = arr.length - 1) {
 ## 이진 탐색 트리
 
 - 이진 트리
-  - 한 노드의 왼족 서브트리에 있는 모든 키 값은 그 노드의 키값보다 작다.
+  - 한 노드의 왼쪽 서브트리에 있는 모든 키 값은 그 노드의 키값보다 작다.
   - 한 노드의 오른쪽 서브트리에 있는 모든 키 값은 그 노드의 키값보다 크다.
 
 ![img_7.png](06_images/img_7.png)
